@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:100,200,300,400,500,600,700,800,900');
+
+body{
+    font-family: 'Comfortaa';
+}
+.rodape{
+    background-color: #cacaca;
+    border-radius: 5px;
+    color: dodgerblue;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+a{
+    text-decoration: none;
+    color:#0069d3;
+}
+a:hover{
+    color:#3c8ddf;
+}
+ul {
+    display: flex;
+    justify-content:space-around;
+    list-style-type: none;
+    padding: 16px;
+}
